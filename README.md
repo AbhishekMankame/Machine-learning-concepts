@@ -1,2 +1,2 @@
 # Machine-learning-concepts
-Machine learning core concepts and learning
+Machine learning core concepts and learning.
